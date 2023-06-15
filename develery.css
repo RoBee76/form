@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+  padding: 2rem;
+}
+
+.font {
+  font-size: 12px; 
+}
+
+.empty {
+	margin-top: 1rem;
+}
